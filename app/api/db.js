@@ -1,0 +1,1 @@
+export const Connectlink="mongodb+srv://aeiyankhan2:ayan141456@cluster0.xxjkjmb.mongodb.net/Myproject?retryWrites=true&w=majority"
